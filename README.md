@@ -7,6 +7,9 @@
 <a href="https://www.youtube.com/channel/UC6erx05kTtqybcSPW_g8fLw" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://github.com/lordaisy" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
+# Hakkıdma;
+
 <ul>
-<li>Hello guys, I have decided not to share my projects on my github account as of May 15th. I think I have improved enough and now I have decided to turn this into a business. I'll do it for a fee for Discord servers. You can contact the links above.</li>
+<li>Selam millet, Ben discord üzerinde kodlama ile uğraşıp bot hazırlıyorum. Discord adım ``The Lord¿#0001`` detaylı bilgi için <a href="https://discord.gg/sg8ZaG23jx">Discord Sunucuma.</a> gelmeyi unutma!</li>
 </ul>
