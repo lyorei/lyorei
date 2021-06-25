@@ -30,6 +30,6 @@
 </p>
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=bet4ww&theme=dark&show_icons=truet" width="%100" height="150px" alt="stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bet4ww&layout=compact&theme=dark&show_icons=tru" />
+   <img src="https://github-readme-stats.vercel.app/api?username=lordaisy&theme=dark&show_icons=truet" width="%100" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordaisy&layout=compact&theme=dark&show_icons=tru" />
 </p>
