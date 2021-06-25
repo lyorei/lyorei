@@ -2,19 +2,19 @@
 <p align="left">Hi, I’m <a href="https://github.com/beT4w">Beta!</a>, a young developer from Turkey 🚀</p>
 <h3>My Personal accounts:</h3>
 <p align="left">
-<a href="https://discord.com/users/780891365063917572" target"blank_"><img src="https://img.shields.io/badge/-Beta%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://open.spotify.com/user/11145406245?si=e8ca2aa060d848f5" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://www.youtube.com/channel/UCl1UN9W3Tltin3fuSlyefmg" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://github.com/beT4w" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://discord.com/users/853003938491007016" target"blank_"><img src="https://img.shields.io/badge/-Beta%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://open.spotify.com/user/rvdrke0dh2fz0v317huqpc2v4" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UC6erx05kTtqybcSPW_g8fLw" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://github.com/lordaisy" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <h3>Talking about Personal Stuffs:</h3>
 <ul>
 <li>💻 Right now, I am focused on bot coding.</li>
-<li>📫 You can reach me from <a href="https://discord.com/users/780891365063917572" target"blank_">Discord</a>.</li>
+<li>📫 You can reach me from <a href="https://discord.com/users/853003938491007016" target"blank_">Discord</a>.</li>
 <li>📺 My favorite series is Lucifer as you can see below</li>
 </ul>
 <h3>Little information</h3> 
-<li>🔖 100 Followerda tamamen ayarlanabilir guard altyapısı paylaşıyorum.
+<li>🔖 50 Followerda kayıt botu altyapısı paylaşıyorum.
 <!---<ul>
 <li>Hello guys, I have decided not to share my projects on my github account as of May 15th. I think I have improved enough and now I have decided to turn this into a business. I'll do it for a fee for Discord servers. You can contact the links above.</li>
 </ul> -->
