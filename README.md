@@ -8,6 +8,8 @@
 <a href="https://github.com/lordaisy" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/236173144300191754)](https://discord.com/users/236173144300191754)
+
 # Hakkıdma;
 
 <ul>
