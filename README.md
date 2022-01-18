@@ -13,5 +13,5 @@
 # Hakkıdma;
 
 <ul>
-<li>Selam millet, Ben Türkiye'de yaşıyorum ve discord üzerinde kodlama ile uğraşıp bot hazırlıyorum. Discord adım ( The Lord¿#0001 ) detaylı bilgi için <a href="https://discord.gg/sg8ZaG23jx">Discord Sunucuma</a> gelmeyi unutma!</li>
+<li>Selam millet, Ben Türkiye'de yaşıyorum ve discord üzerinde kodlama ile uğraşıp bot hazırlıyorum. Discord adım ( noaisy#3503 ) detaylı bilgi için <a href="https://discord.gg/sg8ZaG23jx">Discord Sunucuma</a> gelmeyi unutma!</li>
 </ul>
