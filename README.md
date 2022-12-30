@@ -8,10 +8,10 @@
 <a href="https://github.com/mithraishere" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/853003938491007016)](https://discord.com/users/853003938491007016)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/982682033870475314)](https://discord.com/users/982682033870475314)
 
 # Hakkıdma;
 
 <ul>
-<li>Selam millet, Ben Türkiye'de yaşıyorum ve discord üzerinde kodlama ile uğraşıp bot hazırlıyorum. Discord adım ( noaisy#3503 ) detaylı bilgi için <a href="https://discord.gg/sg8ZaG23jx">Discord Sunucuma</a> gelmeyi unutma!</li>
+<li>Selam millet, Ben Türkiye'de yaşıyorum ve discord üzerinde kodlama ile uğraşıp bot hazırlıyorum. Discord adım ( mithra#1768 ) detaylı bilgi için <a href="https://discord.gg/JVvkgeAUHZ">Discord Sunucuma</a> gelmeyi unutma!</li>
 </ul>
