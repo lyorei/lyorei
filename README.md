@@ -13,7 +13,7 @@ A passionate developer who dived into the world of code driven by curiosity, sel
 <a href="https://www.youtube.com/@shiro-ae?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://github.com/lyorei" target="_blank"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-<div style="text-align: center;">
+<div align="center">
   <a href="https://discord.com/users/1109048720626024559">
     <img src="https://lanyard.cnrad.dev/api/1109048720626024559" alt="Discord Presence" />
   </a>
