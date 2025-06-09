@@ -1,23 +1,55 @@
-<h2 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-<p align="center">
-<samp>
-Hi there, I'm <a href="https://github.com/lyorei">Lyorei!</a> 🚀<br>
-A passionate developer who dived into the world of code driven by curiosity, self-taught along the way, and now elevating the journey through formal Computer Programming education.
-</samp>
-</p>
-
-<h3 align="center">🌐 Personal Accounts:</h3>
-<p align="center">
-<a href="https://discord.com/users/1109048720626024559" target="_blank"><img src="https://img.shields.io/badge/-Lyorei.-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://open.spotify.com/artist/4KeL4oJZZkUXxBT7z2kJ6C" target="_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://www.youtube.com/@shiro-ae?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://github.com/lyorei" target="_blank"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-<div align="center">
-  <a href="https://discord.com/users/1109048720626024559">
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Discord Badge - Şık Tasarım</title>
+  <style>
+    body {
+      margin: 0;
+      background: linear-gradient(135deg, #7289da, #99aab5);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .card {
+      background: #2c2f33;
+      padding: 20px 30px;
+      border-radius: 15px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+      transition: transform 0.3s ease;
+      cursor: pointer;
+      text-align: center;
+    }
+    .card:hover {
+      transform: scale(1.05);
+      box-shadow: 0 12px 30px rgba(0,0,0,0.5);
+    }
+    .card img {
+      border-radius: 12px;
+      max-width: 300px;
+      width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+    .card p {
+      margin-top: 15px;
+      color: #fff;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+    }
+    a {
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <a href="https://discord.com/users/1109048720626024559" target="_blank" rel="noopener noreferrer" class="card">
     <img src="https://lanyard.cnrad.dev/api/1109048720626024559" alt="Discord Presence" />
+    <p>Connect with me on Discord</p>
   </a>
-</div>
-<h3 align="center">
-  <a href="https://discord.gg/FnV4hKNpn5">🏠 Discord Server</a>
-</h3>
+</body>
+</html>
