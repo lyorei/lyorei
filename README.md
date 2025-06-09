@@ -7,7 +7,7 @@ A passionate developer who dived into the world of code driven by curiosity, sel
 </p>
 
 <h3 align="center">🌐 Personal Accounts:</h3>
-<p align="left">
+<p align="center">
 <a href="https://discord.com/users/1109048720626024559" target="_blank"><img src="https://img.shields.io/badge/-Lyorei.-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://open.spotify.com/artist/4KeL4oJZZkUXxBT7z2kJ6C" target="_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.youtube.com/@shiro-ae?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
@@ -15,12 +15,6 @@ A passionate developer who dived into the world of code driven by curiosity, sel
 </p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1109048720626024559)](https://discord.com/users/1109048720626024559)
+<h3 align="center"><a href="https://discord.gg/FnV4hKNpn5">🏠 Discord Server</a></h3>
 
 ---
-
-## 🧠 Hakkımda
-
-<ul>
-  <li>Selam millet! Ben Türkiye'de yaşıyorum ve Discord üzerinde kodlama ile ilgileniyorum. Genellikle bot geliştiriyor ve sistemler kuruyorum.</li>
-  <li>Discord kullanıcı adım: <strong>lyorei.</strong> — Detaylı bilgi için <a href="https://discord.gg/JVvkgeAUHZ">Discord sunucuma</a> uğrayabilirsin.</li>
-</ul>
