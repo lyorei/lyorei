@@ -14,7 +14,9 @@ A passionate developer who dived into the world of code driven by curiosity, sel
 <a href="https://github.com/lyorei" target="_blank"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1109048720626024559)](https://discord.com/users/1109048720626024559)
-<h3 align="center"><a href="https://discord.gg/FnV4hKNpn5">🏠 Discord Server</a></h3>
-
----
+<div align="center">
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1109048720626024559)](https://discord.com/users/1109048720626024559)
+  <h3 align="center">
+    <a href="https://discord.gg/FnV4hKNpn5">🏠 Discord Server</a>
+  </h3>
+</div>
